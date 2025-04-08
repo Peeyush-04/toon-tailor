@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toon-tailor/static/css/main.b5ee53e8.css",
+    "main.js": "/toon-tailor/static/js/main.1ff76386.js",
+    "static/js/453.1bd3e107.chunk.js": "/toon-tailor/static/js/453.1bd3e107.chunk.js",
+    "index.html": "/toon-tailor/index.html",
+    "main.b5ee53e8.css.map": "/toon-tailor/static/css/main.b5ee53e8.css.map",
+    "main.1ff76386.js.map": "/toon-tailor/static/js/main.1ff76386.js.map",
+    "453.1bd3e107.chunk.js.map": "/toon-tailor/static/js/453.1bd3e107.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5ee53e8.css",
+    "static/js/main.1ff76386.js"
+  ]
+}
